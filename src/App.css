@@ -140,6 +140,10 @@ pre {
   margin-right:7px;
 }
 
+.sidebar.collapsed .sidebar-footer{
+  display: none;
+}
+
 .sidebar.collapsed .sidebar-header h1 {
   opacity: 0;
   visibility: hidden;

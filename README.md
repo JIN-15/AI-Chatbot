@@ -12,7 +12,7 @@ This repository contains a customer support AI chatbot developed using the Gemin
 
 ## Youtube Video Link
 
-  [Chatbot-AI](https://youtu.be/iHPXzUcrwE0)
+  [Chatbot-AI](https://youtu.be/o3rChDLcuGA)
 
 ## Pictures
 
