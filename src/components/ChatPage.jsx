@@ -105,6 +105,9 @@ function ChatPage() {
                         <li>About</li>
                     </ul>
                 </div>
+                <div className="sidebar-footer">
+                    <p>&copy; 2024 Made by Ali Hassan</p>
+                </div>
             </div>
             <div className="main-content">
                 <div className="chat-container">

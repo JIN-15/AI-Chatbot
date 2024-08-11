@@ -417,6 +417,21 @@ button:hover {
   animation: spin 1s linear infinite;
   margin: 20px auto;
 }
+.sidebar-footer {
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  text-align: center;
+  height: 40px;
+  padding: 10px;
+  box-shadow: 1px 0 5px rgba(255, 255, 255, 0.5);
+  margin-bottom: 50px;
+  border-bottom: 2px solid #e94560;
+  border-radius: 10px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #0f3460; /* Adjust as needed */
+}
 
 @keyframes spin {
   0% {
