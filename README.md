@@ -16,7 +16,7 @@ This repository contains a customer support AI chatbot developed using the Gemin
 
 ## Pictures
 
-  ![Picture](assets/1.jpeg)
+  ![chatbot picture](assets/1.jpeg)
 
 ## Getting Started
 
